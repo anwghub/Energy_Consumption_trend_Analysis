@@ -1,2 +1,2 @@
 # Energy_Consumption_Trend_Analysis
-analysis by using microsoft power bi
+Energy Consumption Trend Analysis by using Microsoft Power BI
